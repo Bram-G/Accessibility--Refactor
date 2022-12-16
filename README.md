@@ -21,3 +21,7 @@ ex. `.search-engine-optimization h2` , `.online-reputation-management h2` and `.
 7. Added notes to CSS file to make it more readable for future devs
 8. Added `<alt>` tags to images and icons to help users with accessibility needs.
 9. Removed unnecessary classes like `.header nav ul` that were defining default properties
+
+# LINK AND SCREENSHOT
+![SCREENSHOT](SCREENSHOT.png)
+[Link to deployed website!](https://bram-g.github.io/Accessibility--Refactor/)
